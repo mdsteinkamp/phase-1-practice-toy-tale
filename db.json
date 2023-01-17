@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "bullseye",
+      "image": "https://static.wikia.nocookie.net/pixar/images/1/11/Ddhg6tl-5c1bedb5-645a-41d9-86ed-08ba6eb1daa8.png/revision/latest?cb=20210203004509",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Sid Phillips",
+      "image": "https://static.wikia.nocookie.net/pixar/images/9/94/Sid-Phillips.png/revision/latest/scale-to-width-down/250?cb=20200101194615",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
